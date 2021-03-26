@@ -48,5 +48,10 @@ move = silenced_board(2,cards_to_play)
 print(move)
 print(board[0][1])
 
-
+def play(x,y):
+    coordx = int(input(('give me your x coordinate')
+    coordy = int(input('give me your y coordinate'))
+    l=[]
+    for i in board:
+        l.append
 
